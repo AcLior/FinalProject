@@ -1,0 +1,5 @@
+﻿1 ; א ; ImageA ; אגס; pear ; ארון ; closet ; אפרוח ; imageefroah ; אוטובוס ; imageBus ; אינציקלופדיה ; imageInzic ;
+2 ; ב ; ImageB ; בית ; house ; ברווז ; duck ; בגדים ; imageCloths ; בלונים ; imageBalloons ; ברוקולי ; imageBrocoli ;
+3 ; ג ; ImageC ; גג ; roof ; גשם ; rain ; גבעה ; imageGiv ;  גרביים ; imageSocks ;   גויאבה ; imageGuyava ;
+4 ; ד ; ImageD ; דב ; bear ; דגל ; flag ; דלעת ; imagePumpkin ; דוכיפת ; imageDuhifat ;  דינוזאור ; imageDino ;
+5 ; ה ; ImageE ; הגה ; wheel ; הליכון ; walker ; המבורגר ; imageHamburger; הליקופטר ; imageHelicopter ; היפופוטם ; imageHipo ;
